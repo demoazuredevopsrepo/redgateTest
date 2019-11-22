@@ -1,0 +1,321 @@
+{
+  "Id": "f6e4eaca-c91c-4e7e-86c1-fdfb984aa5ee",
+  "Name": "Script created at 2019-11-22 23:31.",
+  "ObjectIds": [
+    {
+      "Name": "Account",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ActionTemplateVersion",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ActionTemplate",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ApiKey",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Artifact",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Certificate",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Channel",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "CommunityActionTemplate",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Configuration",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "DashboardConfiguration",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "DeploymentEnvironment",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "DeploymentHistory",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "DeploymentProcess",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "DeploymentRelatedMachine",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Deployment",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "EventRelatedDocument",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Event",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ExtensionConfiguration",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Feed",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Interruption",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Invitation",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "KeyAllocation",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "LibraryVariableSet",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Lifecycle",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "MachinePolicy",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Machine",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Mutex",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "NuGetPackage",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "OctopusServerInstallationHistory",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "OctopusServerNode",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ProjectGroup",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ProjectTrigger",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Project",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Proxy",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "RelatedDocument",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Release",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "SchemaVersions",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Script0129RepairLegacyLibraryVariableSet",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "ServerTask",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Subscription",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "TagSet",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Team",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "TenantVariable",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Tenant",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "UserRole",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "User",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "VariableSet",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "WorkerPool",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "WorkerTaskLease",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Worker",
+      "Owner": "dbo",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "EventSourceDeployments",
+      "Owner": "dbo",
+      "ObjectType": "StoredProcedure"
+    },
+    {
+      "Name": "GetNextKeyBlock",
+      "Owner": "dbo",
+      "ObjectType": "StoredProcedure"
+    },
+    {
+      "Name": "LatestSuccessfulDeploymentsToMachine",
+      "Owner": "dbo",
+      "ObjectType": "StoredProcedure"
+    },
+    {
+      "Name": "UpdateDeploymentHistory",
+      "Owner": "dbo",
+      "ObjectType": "StoredProcedure"
+    },
+    {
+      "Name": "Dashboard",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "IdsInUse",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "LatestSuccessfulDeployments",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "MultiTenancyDashboard",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "Release_LatestByProjectChannel",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "Release_WithDeploymentProcess",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "TenantProject",
+      "Owner": "dbo",
+      "ObjectType": "View"
+    },
+    {
+      "Name": "fnAreTagRulesSatisfied",
+      "Owner": "dbo",
+      "ObjectType": "Function_UserDefinedFunction_Table"
+    },
+    {
+      "Name": "fnSplitReferenceCollectionAsTable",
+      "Owner": "dbo",
+      "ObjectType": "Function_UserDefinedFunction_Table"
+    }
+  ]
+}
